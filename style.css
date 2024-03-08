@@ -41,3 +41,8 @@ div{
   text-align: center;
   width: 25%;
 }
+div.footer{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
